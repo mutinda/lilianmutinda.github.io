@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Data Analytics. Security Analytics. IT Support.
 published: true
 ---
 
