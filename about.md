@@ -5,8 +5,9 @@ permalink: /about/
 published: true
 ---
 
-Some information about you!
+I am a compitent ICT personnel with more than 2 years of experience in IT systems support and data analytics. I have a formal degree in  Bachelors of Science in Information Technology. I have experience in Customer service, data analytics and ICT support. 
 
+Currently, I have an interest in cybersecurity, which I look forward to practicing. I have a passion in facing new challenges, to establish a solution. In my previous and current work engagements, I have worked in groups and proven my ability as a team player. I am a good time manager and I deliver assignments on time.
 ### More Information
 
 #### Soft Skills.
