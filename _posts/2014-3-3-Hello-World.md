@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Data Analytics. Security Analytics. IT Support.
+title: 'Data Analytics. Security Analytics. IT Support. '
 published: true
 ---
 
-Lilian Mutinda
+Data Analytics is my passion.
+I have started a new journey in Cybersecurity as a security analyst. I look forward to partnership in data analytics projects. 
