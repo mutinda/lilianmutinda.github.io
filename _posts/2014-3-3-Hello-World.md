@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Data Analytics. Security Analytics. IT Support. '
+title: ''
 published: true
 ---
 
