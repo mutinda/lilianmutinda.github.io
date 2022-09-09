@@ -14,11 +14,19 @@ Verbal and written communication.
 Willingless to learn
 Adaptability.
 Attention to detail.
+Problem-solving.
 
 Technical Skills.
+Network and System Administration.
+Software development and maintenance. 
+Help desk support.
+Equipment repairs, installations, and troubleshooting. 
+System analysis and design.
+Installation, configuration, and maintenance of ICT systems.
+Privacy and security.
 
 ### Contact me
 
 [lilianmutinda0@gmail.com](mailto:lilianmutinda0@gmail.com)
 
-[0742608809]
+0742608809
