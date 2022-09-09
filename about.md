@@ -9,7 +9,7 @@ Some information about you!
 
 ### More Information
 
-####Soft Skills.
+#### Soft Skills.
 
 Verbal and written communication.
 
@@ -21,7 +21,7 @@ Attention to detail.
 
 Problem-solving.
 
-####Technical Skills.
+#### Technical Skills.
 
 Network and System Administration.
 
